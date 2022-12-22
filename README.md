@@ -52,7 +52,7 @@
 <b> </b>  
 
 <p align="center">
-<a href="   "> 
+<a href="#"> 
 <img alt="Python" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png"> 
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
 <img alt="Java" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/java.png">
