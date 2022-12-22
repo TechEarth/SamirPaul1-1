@@ -107,7 +107,7 @@
 [
 <img alt="MacOS" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/macos.png">
 ](#)
-[<code>
+[
 <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/linux.png">
 ](#)
 
